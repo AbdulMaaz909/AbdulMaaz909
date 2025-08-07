@@ -5,7 +5,6 @@
 - 💬 Ask me about React, Node.js, MongoDB, Express, Flutter, and Firebase.  
 - 💞️ I’m looking to collaborate on real-world projects, open source contributions, and tech communities.  
 - 📫 How to reach me: [abdulmaaz909@gmail.com](mailto:abdulmaaz909@gmail.com)  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning ideas into working prototypes.  
 - 📂 Check out my repositories below — I regularly push clean, documented code and full-stack projects!
 
